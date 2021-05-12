@@ -1,0 +1,20 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  background-color: #1D3557;
+}
+
+h1 {
+  color: #E63946;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  color: #FFF1D6;
+  margin: auto;
+  text-align: center;
+  padding: 1em;
+}
